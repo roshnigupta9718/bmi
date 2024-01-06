@@ -1,0 +1,21 @@
+button{
+    background-color: blue;
+    display:block;
+}
+div{
+    margin:300px;
+}
+.container{
+    border:2px solid black;
+padding:50px;
+height:auto;
+
+
+
+}
+#height{
+margin:10px;
+}
+#weight{
+    margin:10px;
+}
